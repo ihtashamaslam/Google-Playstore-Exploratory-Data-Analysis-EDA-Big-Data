@@ -26,3 +26,11 @@ I couldn't have build this dataset without the help of Github Education and swit
 
 - `Inspiration`\
 Took inspiration from: https://www.kaggle.com/lava18/google-play-store-apps to build a big database for students and researchers.
+
+### **Questions**
+Q1. Top 10 Rated Apps
+Q2. All Category with number of apps and top 10 categories by installs?
+Q3. How many individuals are observed to provide ratings or not, and for those who do, what is the most common rating?
+Q4. Number of installed app, type wise according to each category?
+Q5. Which is the percentage of Paid and Free apps?
+Q6. Which Category has the highest Paid and Free apps?
