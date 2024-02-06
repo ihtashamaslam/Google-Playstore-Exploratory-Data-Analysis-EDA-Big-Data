@@ -1,14 +1,14 @@
 # **Google Playstore Dataset**
 ## **Complete EDA analysis**
 
-### **1. About the Author**
+### **About the Author**
 - **Name:** Ihtasham Aslam
 - **Email:** ihtashamaslam13@gmail.com
 - **Phone Number:** +923039561174
 - **LinkedIn:** [Profile URL](https://www.linkedin.com/in/ihtashamaslam)
 - **Date:**  February 5, 2023
 
-- ### **2. About Dataset**
+### **About Dataset**
 
 >- **`Description`**\
 > The Data Set was downloaded from Kaggle, from the following [Google Playstore Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps/data)
