@@ -1,5 +1,5 @@
 # **Google Playstore Dataset**
-## **Complete EDA analysis**
+## **Complete Exploratory Data Analysis EDA Big Data**
 
 ### **About the Author**
 - **Name:** Ihtasham Aslam
@@ -11,7 +11,8 @@
 ### **About Dataset**
 
 - **`Description`**\
-The Data Set was downloaded from Kaggle, from the following [Google Playstore Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps/data)
+The Data Set was downloaded from Kaggle, from the following [Google Playstore Dataset](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps/data) in which we have 2312944 rows and 24 columns.
+
 
 - `Context`\
 Google PlayStore Android App Data. (2.3 Million+ App Data)\
