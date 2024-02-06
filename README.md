@@ -33,4 +33,4 @@ Q2. All Category with number of apps and top 10 categories by installs?\
 Q3. How many individuals are observed to provide ratings or not, and for those who do, what is the most common rating?\
 Q4. Number of installed app, type wise according to each category?\
 Q5. Which is the percentage of Paid and Free apps?\
-Q6. Which Category has the highest Paid and Free apps?\
+Q6. Which Category has the highest Paid and Free apps?
